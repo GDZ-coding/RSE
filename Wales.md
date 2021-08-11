@@ -1,5 +1,5 @@
 Mountains In Wales
 ==================
 
-* Tryfan
-* Snowdon
+* Pen y Fan
+* Yr Wyddfa
